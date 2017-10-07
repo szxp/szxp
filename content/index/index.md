@@ -2,7 +2,7 @@
 type = "index"
 +++
 
-# Szakszon Péter
+# Péter Szakszon
 
 ## Projects
 * [Syslog package](https://github.com/szxp/syslog) provides logger for Golang that generates syslog messages as defined in RFC 5424
